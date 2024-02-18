@@ -1,3 +1,8 @@
+Projeto desenvolvido em Typescript, utilizando Google Maps API e JavaScript no React JS
+
+![image](https://github.com/professorjonathan/projeto_map_api/assets/115835116/c10edde3-b964-4439-a895-3f6cda470ff8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
