@@ -1,5 +1,7 @@
 Projeto desenvolvido em Typescript, utilizando Google Maps API e JavaScript no React JS
 
+OBS: precisa alterar a chave de API do Google antes de rodar projeto.
+
 ![image](https://github.com/professorjonathan/projeto_map_api/assets/115835116/c10edde3-b964-4439-a895-3f6cda470ff8)
 
 
