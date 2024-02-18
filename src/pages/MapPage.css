@@ -1,0 +1,12 @@
+.map {
+    height: 100vh;
+}
+
+.map-position {
+    margin-top: -45px;
+    background-color: yellow;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 4px;
+}
