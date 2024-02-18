@@ -8,7 +8,7 @@ const MapPage = () => {
 
     const { isLoaded } = useJsApiLoader({
         id: 'google-map-script',
-        googleMapsApiKey: "AIzaSyBpp6_iEZdVWE718SDrUBSfW9Qdj9N5MVQ"
+        googleMapsApiKey: "Sua chave API Google"
     })
 
     const position = {
